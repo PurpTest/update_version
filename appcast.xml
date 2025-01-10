@@ -1,16 +1,16 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8" ?>
 <rss version="2.0">
   <channel>
-    <title>DDOne Updates</title>
+    <title>My App Updates</title>
+    <link>https://github.com/my-app</link>
+    <description>My Flutter app updates</description>
+
     <item>
       <title>Version 1.3.0</title>
-      <description>What's new:
-        - Bug fixes
-        - Performance improvements
-      </description>
-      <pubDate>Wed, 9 Jan 2025 10:00:00 +0000</pubDate>
+      <description>This update includes new features and bug fixes.</description>
+      <pubDate>Mon, 08 Jan 2025 12:00:00 +0000</pubDate>
       <enclosure url="https://apps.microsoft.com/detail/9P54KFGD0D0W" length="12345" type="application/octet-stream" />
-      <version>1.3.0</version>
+      <version>1.3.0</version> <!-- This should match the version to check -->
       <os>windows</os>
     </item>
   </channel>
